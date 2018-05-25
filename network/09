@@ -1,0 +1,4 @@
+#----	Find the external IP for 42.fr
+#-------------------------------------
+
+nslookup 42.fr | grep "Address: " | cut -b 10-23
