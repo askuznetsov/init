@@ -1,0 +1,11 @@
+#----	Figure out the server type.
+#----
+#----	DHCP, Dynamic Host Configuration Protocol, is a
+#----	client/server protocol that automatically provides
+#----	an Internet Protocol (IP) host with its IP address
+#----	and other related configuration information such
+#----	as the subnet mask and default gateway.
+
+#----------------------------------
+
+echo "Server is of DHCP type."
