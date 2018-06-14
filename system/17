@@ -1,0 +1,4 @@
+#----	Find the command which gives the list of firewall rules
+#--------------------------------------------------------------
+
+echo "iptables -L"

@@ -1,0 +1,6 @@
+#----	Run the 'tail -f /var/log/syslog' command in background
+
+#----	The		&	  makes the command run in the background.
+#--------------------------------------------------------------
+
+tail -f /var/log/syslog &

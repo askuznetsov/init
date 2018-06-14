@@ -1,0 +1,10 @@
+#----	Figure out the exact size of each folder of /var
+
+#----	To get the summary of usage space use -s
+
+#----	du - disk usage
+
+#-------------------------------------------------------
+
+
+du -sh /var/*

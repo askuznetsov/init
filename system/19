@@ -1,0 +1,4 @@
+#----	With the previous command, forbid all others.
+#----------------------------------------------------
+
+iptables -A INPUT -j REJECT

@@ -1,0 +1,4 @@
+#----	Name the command that determines the state of SSH service.
+#-----------------------------------------------------------------
+
+echo "service ssh status"

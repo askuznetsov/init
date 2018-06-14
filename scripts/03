@@ -1,0 +1,17 @@
+#----	Write a script which displays the list
+#----	of files from the folder given as
+#----	parameter, sorted by size.
+
+#----	if -d --> -d файл Истина, если файл существует и является каталогом
+
+#----	ls -S --> sort-size
+#--------------------------------------------------------------------------
+
+#!/bin/bash
+
+if [ -d "$1" ]; then
+   ls -lRSh "$1"
+else
+	echo "error"
+fi
+

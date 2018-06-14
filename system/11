@@ -1,0 +1,10 @@
+#----	Name the command that displays the available space
+#----	left on the system?
+
+#----	df -- disk free.
+
+#----	-h  == --human-readable. ADD MB, GB, etc.
+
+#---------------------------------------------------------
+
+echo "df -h"

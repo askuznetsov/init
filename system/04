@@ -1,0 +1,5 @@
+#----	What the command gives you the time since
+#----	your system was last booted?
+#------------------------------------------------
+
+echo "uptime"

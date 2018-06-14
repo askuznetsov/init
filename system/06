@@ -1,0 +1,4 @@
+#----	Name the command that reboot the SSH service.
+#----------------------------------------------------
+
+echo "service ssh restart"
