@@ -3,4 +3,4 @@
 #----	server you're using.
 #---------------------------------------------
 
-scutil --dns 
+echo /etc/resolv.conf

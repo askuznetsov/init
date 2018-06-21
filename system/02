@@ -1,5 +1,6 @@
 #----	What command can you use to rename your system?
 #------------------------------------------------------
 
+hostname
 echo "hostname newhostname - will change the name of your system to newhostname.
 To check the name of your system use hostname without any arguments."

@@ -4,4 +4,4 @@
 #----	and the outside world.
 #-----------------------------------------------------
 
-traceroute slash16.org | grep " 2 "
+echo "v34.sh2.kv.wnet.ua (217.20.183.34)"

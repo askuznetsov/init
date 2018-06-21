@@ -2,4 +2,4 @@
 #----	your system was last booted?
 #------------------------------------------------
 
-echo "uptime"
+uptime

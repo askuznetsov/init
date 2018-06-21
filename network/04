@@ -3,4 +3,4 @@
 #---------------------------------------------------------
 
 
-route get default | grep "gateway" | cut -b 14-28
+netstat -r -n | grep default | head -1

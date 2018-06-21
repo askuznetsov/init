@@ -11,4 +11,4 @@
 #----				(для UNIX-систем).
 #-------------------------------------------------------------
 
-nslookup slash16.org | grep "Server" | cut -b 10-28
+nslookup slash16.org

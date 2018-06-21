@@ -2,4 +2,5 @@
 #----	of external devices?
 #-------------------------------------------------------
 
-echo "fdisk -l"
+echo "sudo fdisk -l"
+sudo fdisk -l

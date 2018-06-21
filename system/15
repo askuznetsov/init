@@ -2,6 +2,6 @@
 #----	command's process.
 #-------------------------------------------------
 
-echo "pkill tail"
+echo "sudo pkill tail"
 
-pkill tail
+sudo pkill tail
